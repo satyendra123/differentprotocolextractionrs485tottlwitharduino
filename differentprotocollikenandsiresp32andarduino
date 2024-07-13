@@ -158,7 +158,8 @@ def extract_data(data):
 # Call the function with the data string
 extract_data(data)
 
-#EXAMPLE-4 in a single line of code how can i do the multiple protocol communication
+#EXAMPLE-4 in a single line of code how can i do the multiple protocol communication. ye humne test kar liya hai aur ye code perfectly work kar rha hai.isme hum docklight se data send kar rhe hai
+ASCII data send kar rhe hai aur hum data ko esp32 thony me serial monitor me data ko dekh paa rhe hai. so ye code perfectly work kar rha hai
 import machine
 import time
 import re
